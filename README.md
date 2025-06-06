@@ -1,2 +1,2 @@
-# Phoenix-Ai
+# Sonic-Ai
 Whatsapp bot
