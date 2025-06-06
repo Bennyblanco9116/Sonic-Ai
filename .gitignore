@@ -1,0 +1,8 @@
+node_modules/
+.env
+*.session.json
+*.mp3
+*.mp4
+qr.txt
+.DS_Store
+package-lock.json
